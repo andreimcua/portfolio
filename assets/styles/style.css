@@ -1,0 +1,35 @@
+body {
+	background: url(../images/beach.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+
+h1{
+	color:black;
+	font-size: 70px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2{
+	color: black;
+	font-size: 25px;
+	margin-top: 0;
+}
+
+.bio {
+	color:black;
+	font-size: 14px;
+	font-style: italic;
+}
+.me{ 	
+	height: 150px;	
+	border-radius: 100%;
+	border-style: solid;
+	border-color: black;
+	margin-top: 40px;
+}
